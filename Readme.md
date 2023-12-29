@@ -1,17 +1,9 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128568073/12.2.5%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4480)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
 * [MainPage.xaml](./CS/FormatCrosshairLabelValues/MainPage.xaml) (VB: [MainPage.xaml](./VB/FormatCrosshairLabelValues/MainPage.xaml))
 <!-- default file list end -->
 # How to format values in a crosshair cursor via a label's patterns
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4480)**
-<!-- run online end -->
 
 
 <p>This example  demonstrates changing a text displayed  in crosshair labels using crosshair format patterns. <br />
